@@ -1,0 +1,5 @@
+For this module, you will need Dataset X and Y , and slopes and intercepts.
+For the demo purpose I've fixed the slope and intercept after generating from the model.
+
+
+Run Command :  python visualize_GD.py
